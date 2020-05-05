@@ -1,1 +1,6 @@
-## Repositório de teste para git
+# Repositório de teste para git
+
+## Features do projeto
+
+### Features completas
+- [x] Botão de Log; Função de Log 
